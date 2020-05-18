@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Claudia's Web Design Challenge
 
 You can use the [editor on GitHub](https://github.com/claudiatrahan/claudiatrahan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
